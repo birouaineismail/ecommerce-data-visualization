@@ -3,5 +3,6 @@ numpy
 matplotlib
 seaborn
 plotly
-jupyter
 streamlit
+scikit-learn
+jupyter
